@@ -40,6 +40,8 @@ The programs will launch a PCLViewer displaying the output of the sensor:
 
 ![Capture example](resources/capture-example.png)
 
+Note: In some case, once the visualizer has started, you might need to press the touch 'r' to recenter the view on the cloud.
+
 ## Feedback
 
 Don't hesitate if you have any suggestions for improving this project, or if you find any error. I will be glad to
